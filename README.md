@@ -1,4 +1,8 @@
 # Solid's Freeman Guerrilla Warfare Mods
+
+##Please **NOTE**
+Modding is not officially supported.
+
 ## Current Mods
 ##### Here is current list of mods that i have created.
 * Slow Motion
@@ -15,6 +19,8 @@ Current speed limits are 100%-1% from real time speeds and you move 3% steps for
 Note: Bullet drops are currently tied up with IRL time. The slower is game speed, the bigger is the bullet drop. 
 
 
+## Download
+You can download latest releases from [HERE](https://github.com/SolidJuho/SolidFGWMods/releases)
 
 ## How to Install .DLL mods
 1. Open Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data\Managed and **make backup of original Assembly-Csharp.dll file!** You can do this by renaming it to Assembly-CSharp-BACKUP.dll
