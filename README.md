@@ -1,9 +1,9 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
 ## Please **NOTE**
-Modding is not officially supported.
-Each mod works only said versio, They are not *Forward* OR *Backwards* combatible
-Read also **WARNINGS** at end of readme.
+* Modding is not officially supported.
+* Each mod works only said versio, They are not *Forward* OR *Backwards* combatible
+* Read also **WARNINGS** at end of readme.
 
 ## Current Mods
 ##### Here is current list of mods that i have created.
