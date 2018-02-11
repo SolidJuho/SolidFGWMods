@@ -2,24 +2,31 @@
 
 ## Please **NOTE**
 * Modding is not officially supported.
-* Each mod works only said versio, They are not *Forward* OR *Backwards* combatible
-* Read also **WARNINGS** at end of readme.
+* Each mod works only with said version of the game, They are not *Forward* OR *Backwards* combatible
+* Read also all of the **WARNINGS** at end of readme.
 
 ## Current Mods
 ##### Here is current list of mods that i have created.
 * Slow Motion
+* Moon gravity
 ##### Work In progress mods
-* Moon gravity (Note: Working but haven't uploaded yet.)
+* Nothing. Suggestion are allowed ;), No breads!
 
 
 ### Slow Motion
 * Hold F to enable slow motion (Note: Speed is default by 0. So game looks its frozen, but it is actually working all right)
 * Press O to speed up.
 * Press L to slow down speed.
-Current speed limits are 100%-1% from real time speeds and you move 3% steps for each press.
+Current speed limits are 1.00-0.01 from real time speeds and you move 0.02 steps for each press.
 
 Note: Bullet drops are currently tied up with IRL time. The slower is game speed, the bigger is the bullet drop. 
 
+### Gravity Mod
+* Press C to return default gravity.
+* Press V to enable Moongravity (1/5 from normal).
+* Press B to negative gravity. 
+
+> Oh you wanted to be a spaceman?? There you go!
 
 ## Download
 You can download latest releases from [HERE](https://github.com/SolidJuho/SolidFGWMods/releases)
@@ -40,7 +47,7 @@ You can download latest releases from [HERE](https://github.com/SolidJuho/SolidF
 * Make toggle able Slow Motion
 
 ### Moon Gravity
-* Make sure stuff is ready to go and upload it to github.
+* Press two diffrent keys to raise and lower gravity instead of current system.
 
 ## Warnings:
 * I am not responsible for losing your save game files, so please make backup of them before installing.
