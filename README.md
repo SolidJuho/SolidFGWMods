@@ -1,8 +1,8 @@
 # Solid's Freeman Guerrilla Warfare Mods
 ## Current Mods
-#### Here is current list of mods that i have created.
+##### Here is current list of mods that i have created.
 * Slow Motion
-#### Work In progress mods
+##### Work In progress mods
 * Moon gravity (Note: Working but haven't uploaded yet.)
 
 
@@ -11,6 +11,10 @@
 * Press O to speed up.
 * Press L to slow down speed.
 Current speed limits are 100%-1% from real time speeds and you move 3% steps for each press.
+
+Note: Bullet drops are currently tied up with IRL time. The slower is game speed, the bigger is the bullet drop. 
+
+
 
 ## How to Install .DLL mods
 1. Open Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data\Managed and **make backup of original Assembly-Csharp.dll file!** You can do this by renaming it to Assembly-CSharp-BACKUP.dll
@@ -25,7 +29,12 @@ Current speed limits are 100%-1% from real time speeds and you move 3% steps for
 
 ## To do:
 ### Slow Motion
-* Make toggleable Slow Motion
+* Make toggle able Slow Motion
 
 ### Moon Gravity
 * Make sure stuff is ready to go and upload it to github.
+
+## Warnings:
+* I am not responsible for losing your save game files, so please make backup of them before installing.
+* There is possibility of corrupting game files and you need to reinstall game. 
+* If you occur bug while using mods, please report them to me and not the game devs, because mods can be big responsibility of bugs.
