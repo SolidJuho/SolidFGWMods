@@ -2,15 +2,16 @@
 
 ## Please **NOTE**
 * Modding is not officially supported.
-* Each mod works only with said version of the game, They are not *Forward* OR *Backwards* combatible
+* Each mod works only with said version of the game, They are not *Forward* OR *Backwards* compatible
 * Read also all of the **WARNINGS** at end of readme.
 
 ## Current Mods
 ##### Here is current list of mods that i have created.
 * Slow Motion
 * Moon gravity
+* Bread Flag
 ##### Work In progress mods
-* Nothing. Suggestion are allowed ;), No breads!
+* Something...
 
 
 ### Slow Motion
@@ -23,10 +24,18 @@ Note: Bullet drops are currently tied up with IRL time. The slower is game speed
 
 ### Gravity Mod
 * Press C to return default gravity.
-* Press V to enable Moongravity (1/5 from normal).
+* Press V to enable Moon gravity (1/5 from normal).
 * Press B to negative gravity. 
 
 > Oh you wanted to be a spaceman?? There you go!
+
+## Bread Flag
+Changes one of the flags to Bread with green/white background.
+
+> Lets go BREAD NATION!
+1. Make backup of resources.assets
+2. Place resourcesBREAD_FLAG.assets file inside Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data
+3. Rename resourcesBREAD_FLAG.assets to resources.assets
 
 ## Download
 You can download latest releases from [HERE](https://github.com/SolidJuho/SolidFGWMods/releases)
@@ -39,6 +48,17 @@ You can download latest releases from [HERE](https://github.com/SolidJuho/SolidF
 ### How to Uninstall modded .dll file.
 1. Remove Assembly-CSharp.dll
 2. Rename your Assembly-CSharp-BACKUP.dll to Assembly-CSharp.dll
+3. Enjoy your vanilla gameplay!
+**You can also just verify cache inside steam incase you made error in modding**
+
+## How to install assets Mod.
+1. Make backup of resources.assets
+2. Place resourcesModded.assets file inside Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data
+3. Rename resourcesModded.assets to resources.assets
+
+### How to Uninstall assets Mod.
+1. Remove resources.assets
+2. Rename your resourcesBACKUP.assets to resources.assets.
 3. Enjoy your vanilla gameplay!
 **You can also just verify cache inside steam incase you made error in modding**
 
