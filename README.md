@@ -29,8 +29,13 @@ Note: Bullet drops are currently tied up with IRL time. The slower is game speed
 
 > Oh you wanted to be a spaceman?? There you go!
 
-## Bread Flag
-Changes one of the flags to Bread with green/white background.
+## Better Flags Mod 
+#### Now with EXE installation!
+Not satistified with current flags?
+Dont worry, I got fix for your problem!
+Current flags:
+Bread Flag
+Dried Fish Flag (A.K.A Wood)
 
 > Lets go BREAD NATION!
 1. Make backup of resources.assets
@@ -59,6 +64,7 @@ Right now DLL mods doesnt support .exe installation
 **You can also just verify cache inside steam incase you made error in modding**
 
 ### How to install assets Mod.
+Please note there is also sharedassets.asset mods, they can be installed same way as resource.assets mods.
 1. Make backup of resources.assets
 2. Place resourcesModded.assets file inside Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data
 3. Rename resourcesModded.assets to resources.assets
