@@ -40,27 +40,47 @@ Changes one of the flags to Bread with green/white background.
 ## Download
 You can download latest releases from [HERE](https://github.com/SolidJuho/SolidFGWMods/releases)
 
-## How to Install .DLL mods
+## Installing
+There is 2 diffrent ways to install mods right now.
+1. Manual install.
+2. Exe install.
+
+Right now DLL mods doesnt support .exe installation
+
+### How to Install .DLL mods
 1. Open Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data\Managed and **make backup of original Assembly-Csharp.dll file!** You can do this by renaming it to Assembly-CSharp-BACKUP.dll
 2. Place downloaded Assembly-CSharp.dll file in that folder.
 3. You are now ready to go :)
 
-### How to Uninstall modded .dll file.
+#### How to Uninstall modded .dll file.
 1. Remove Assembly-CSharp.dll
 2. Rename your Assembly-CSharp-BACKUP.dll to Assembly-CSharp.dll
 3. Enjoy your vanilla gameplay!
 **You can also just verify cache inside steam incase you made error in modding**
 
-## How to install assets Mod.
+### How to install assets Mod.
 1. Make backup of resources.assets
 2. Place resourcesModded.assets file inside Steam\steamapps\common\Freeman Guerrilla Warfare\Freeman Guerrilla Warfare_Data
 3. Rename resourcesModded.assets to resources.assets
 
-### How to Uninstall assets Mod.
+#### How to Uninstall assets Mod.
 1. Remove resources.assets
 2. Rename your resourcesBACKUP.assets to resources.assets.
 3. Enjoy your vanilla gameplay!
 **You can also just verify cache inside steam incase you made error in modding**
+
+
+## Exe mods install.
+1. Make **BACKUP** of whole game and save files
+2. Drop .exe file folder where is Freeman Guerrilla Warfare.exe located.
+3. Run it, and it will guide the install process
+
+Most .exe mods are compatible with DLL mods, but its unconfirmed having multiple .exe mods.
+
+### Exe mods uninstall.
+1. Delete modified files
+2. Move backup files back to game folder.
+
 
 ## To do:
 ### Slow Motion
