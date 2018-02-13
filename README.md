@@ -1,5 +1,7 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
+![Bread Flag Gif](https://media.giphy.com/media/26DNb0K473vZm4AiQ/giphy.gif)
+
 ## Please **NOTE**
 * Modding is not officially supported.
 * Each mod works only with said version of the game, They are not *Forward* OR *Backwards* compatible
