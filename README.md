@@ -1,6 +1,6 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
-![Bread Flag Gif](https://media.giphy.com/media/26DNb0K473vZm4AiQ/giphy.gif)
+<img src="https://media.giphy.com/media/26DNb0K473vZm4AiQ/giphy.gif" width="40" height="40" />
 
 ## Please **NOTE**
 * Modding is not officially supported.
