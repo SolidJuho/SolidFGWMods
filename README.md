@@ -1,6 +1,6 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
-<img src="https://media.giphy.com/media/26DNb0K473vZm4AiQ/giphy.gif" width="40" height="40" />
+<img src="https://giant.gfycat.com/ElderlyTediousHaddock.webm" width="40" height="40" />
 
 ## Please **NOTE**
 * Modding is not officially supported.
