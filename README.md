@@ -8,7 +8,7 @@
 * Each mod works only with said version of the game, They are not *Forward* OR *Backwards* compatible
 * Read also all of the **WARNINGS** at end of readme.
 
-## Current Mods
+## Current Mods for 0.111 (I will update them soon^TM)
 ##### Here is current list of mods that i have created.
 * Slow Motion
 * Moon gravity
