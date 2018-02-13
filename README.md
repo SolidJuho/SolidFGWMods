@@ -1,6 +1,6 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
-<video src="https://i.imgur.com/Hrukhhe.mp4" width="400" height="200" controls preload></video>
+<video src="imgur.com/Hrukhhe.mp4" width="256" height="150" controls preload></video>
 
 
 ## Please **NOTE**
