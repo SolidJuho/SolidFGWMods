@@ -1,6 +1,7 @@
 # Solid's Freeman Guerrilla Warfare Mods
 
-<img src="https://giant.gfycat.com/ElderlyTediousHaddock.webm" width="40" height="40" />
+<video src="https://i.imgur.com/Hrukhhe.mp4" width="400" height="200" controls preload></video>
+
 
 ## Please **NOTE**
 * Modding is not officially supported.
