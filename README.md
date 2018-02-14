@@ -8,13 +8,13 @@
 * Each mod works only with said version of the game, They are not *Forward* OR *Backwards* compatible
 * Read also all of the **WARNINGS** at end of readme.
 
-## Current Mods for 0.111 (I will update them soon^TM)
+## Current Mods for
 ##### Here is current list of mods that i have created.
 * Slow Motion
 * Moon gravity
-* Bread Flag
+* Bread Flag (0.111 only, Update soon)
 ##### Work In progress mods
-* Something...
+* Something... and updates.
 
 
 ### Slow Motion
