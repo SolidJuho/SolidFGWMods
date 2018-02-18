@@ -10,11 +10,18 @@
 
 ## Current Mods for
 ##### Here is current list of mods that i have created.
-* Slow Motion
-* Moon gravity
+* Solid's Tweaks And Fixes
+* Slow Motion(0.112)
+* Moon gravity(0.112)
 * Bread Flag (0.111 only, Update soon)
 ##### Work In progress mods
 * Something... and updates.
+
+
+###Solid's Tweaks And Fixes
+Current fixes/tweaks:
+* Tweak: Bullet in chamber doesn't vanish anymore. It means you can reload your weapon when having 1 bullet left without loses.
+* Fix: Bullet shells TOO LOUD when shooting. Made them 1/3 from that.
 
 
 ### Slow Motion
