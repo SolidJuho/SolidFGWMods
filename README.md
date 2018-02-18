@@ -13,7 +13,7 @@
 * Solid's Tweaks And Fixes
 * Slow Motion(0.112) [[PREVIEW]](https://www.youtube.com/watch?v=VwSzr-qebJc)
 * Moon gravity(0.112)
-* Bread Flag (0.111 only, Update soon)
+* Bread Flag (0.111 only, ~~Update soon~~(Still backing this one down until my biggest project so far has been released.))
 ##### Work In progress mods
 * Something... and updates.
 
@@ -21,7 +21,7 @@
 ### Solid's Tweaks And Fixes
 Current fixes/tweaks:
 * Tweak: Bullet in chamber doesn't vanish anymore. It means you can reload your weapon when having 1 bullet left without loses.
-* Fix: Bullet shells TOO LOUD when shooting. Made them 1/3 from that.
+* Fix: Bullet shells TOO LOUD when shooting and they collide ground. Made them only 1/3 from default volume.
 
 
 ### Slow Motion
